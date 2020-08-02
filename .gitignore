@@ -107,9 +107,9 @@ coverage
 # Strapi
 ############################
 
-.env
 license.txt
 exports
 .cache
 build
 package-lock.json
+config.bat
